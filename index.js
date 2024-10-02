@@ -1,0 +1,1 @@
+alert('Wait for your results')
